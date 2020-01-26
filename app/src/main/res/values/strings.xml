@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Activities</string>
+    <string name="appwidget_text">Wedgit</string>
+    <string name="main_button_tuner">SystemUI Tuner</string>
+    <string name="main_button_brightness">Brightness Slider</string>
+    <string name="main_button_activate">Activate NekoLand</string>
+    <string name="main_button_octo">Ocquarium</string>
+    <string name="main_button_dessert">Dessert Case</string>
+    <string name="main_button_emergency">Emergency Info</string>
+    <string name="main_button_flappy">Flappy Marshmallow</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+</resources>
